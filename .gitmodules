@@ -1,0 +1,15 @@
+[submodule "auth-service"]
+	path = auth-service
+	url = https://github.com/pasanchamikara99/Auth-Service.git
+[submodule "gateway-service"]
+	path = gateway-service
+	url = https://github.com/pasanchamikara99/Gateway.git
+[submodule "student-service"]
+	path = student-service
+	url = https://github.com/pasanchamikara99/Student-Service.git
+[submodule "school-service"]
+	path = school-service
+	url = https://github.com/pasanchamikara99/School-service.git
+[submodule "service-registry"]
+	path = service-registry
+	url = https://github.com/pasanchamikara99/Service-Registry.git
